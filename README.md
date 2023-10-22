@@ -11,5 +11,8 @@ We worked on it and adjusted the threshold value for the model and now not only 
 
 Output is as follows:
 
-<img src='output/open eyes.png' width='500'> <img src='output/closed eyes.png' width='500'> 
+<div>
+<img src='output/open eyes.png' width='300'> <img src='output/closed eyes.png' width='300'> 
+</div>
+
 
