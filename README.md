@@ -11,4 +11,5 @@ We worked on it and adjusted the threshold value for the model and now not only 
 
 Output is as follows:
 
-![Open eyes](<output/open eyes.png>) ![Closed eyes](<output/closed eyes.png>)
+<img src='output/open eyes.png' width='500'> <img src='output/closed eyes.png' width='500'> 
+
