@@ -10,4 +10,5 @@ Update :
 We worked on it and adjusted the threshold value for the model and now not only it stoppped beeping continously but also it monitors for specific intervals according to the threshold value and if the eyes are closed for more than specific amount of time alarm beeps.
 
 Output is as follows:
-![Open eyes](<open eyes.png>) ![Closed eyes](<closed eyes.png>)
+
+![Open eyes](<output/open eyes.png>) ![Closed eyes](<output/closed eyes.png>)
